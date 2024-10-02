@@ -11,4 +11,3 @@ print()
 print(dna_sequence.upper())
 print()
 
-
